@@ -1,5 +1,4 @@
 import pygame
-from main import *
 
 # Classe base para objetos do jogo
 class CircleShape(pygame.sprite.Sprite):
